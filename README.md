@@ -16,14 +16,11 @@ To complete this recitation, follow the instructions in this document. Some of y
 - You'll work with a partner to complete this recitation. To do so, we'll break you into Zoom rooms. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
 
 ## Running and testing your code
-- In the command-line window, run `./ipy` to launch an interactive IPython shell. This is an interactive shell to help run and debug your code. Any code you change in `main.py` will be reflected from this shell. So, you can modify a function in `main.py`, then test it here.
-  + If it seems things don't refresh, try running `from main import *`
-- You can exit the IPython prompt by either typing `exit` or pressing `ctrl-d`
-- To run tests, from the command-line shell, you can run
-  + `pytest main.py` will run all tests
-  + `pytest main.py::test_one` will just run `test_one`
-  + We recommend running one test at a time as you are debugging.
-
+- Clicking the "play" button will run all tests in your code.
+- It's usually best to run only one test at a time. To run tests, from the command-line shell, you can run
+  + `pytest -s main.py` will run all tests
+  + `pytest -s main.py::test_one` will just run `test_one`
+  
 ## Turning in your work
 
 - Once complete, click on the "Version Control" icon in the left pane on repl.it.
