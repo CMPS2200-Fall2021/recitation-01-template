@@ -12,26 +12,16 @@ To complete this recitation, follow the instructions in this document. Some of y
 - Login to Github.
 - Click on the assignment link sent through canvas and accept the assignment.
 - Click on your personal github repository for the assignment (e.g., https://github.com/tulane-cmps2200/recitation-01-your_username).
-- Click on the "Work in Repl.it" button. This will launch an instance of `repl.it` initialized with the code from your repository.
-  - If you don't see a "Work in Repl.it" button, instead do:
-    - Go to repl.it
-    - Click the "+" to make a new repl.it
-    - Click "Import from github"
-    - Enter your github assignment url: e.g., https://github.com/tulane-cmps2200/recitation-01-your-username
-- You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
+- Clone the repository to your local device
+- Complete the lab task 
+- Push it back to github
 
-## Running and testing your code
-- Clicking the "play" button will run all tests in your code.
-- It's usually best to run only one test at a time. To run tests, from the command-line shell, you can run
-  + `pytest -s main.py` will run all tests
-  + `pytest -s main.py::test_one` will just run `test_one`
-  
+You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
+
 ## Turning in your work
+- Only one team member needs to push your completed lab to github. 
+- In the Read.me file, include the name of the team members.
 
-- Once complete, click on the "Version Control" icon in the left pane on repl.it.
-- Enter a commit message in the "what did you change?" text box
-- Click "commit and push." This will push your code to your github repository.
-- Although you are working as a team, please have each team member submit the same code to their repository. One person can copy the code to their repl.it and submit it from there.
 
 ## Comparing search algorithms
 
