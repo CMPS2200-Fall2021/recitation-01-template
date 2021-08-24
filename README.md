@@ -18,7 +18,7 @@ To complete this recitation, follow the instructions in this document. Some of y
     - Click the "+" to make a new repl.it
     - Click "Import from github"
     - Enter your github assignment url: e.g., https://github.com/tulane-cmps2200/recitation-01-your-username
-- You'll work with a partner to complete this recitation. To do so, we'll break you into Zoom rooms. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
+- You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
 
 ## Running and testing your code
 - Clicking the "play" button will run all tests in your code.
