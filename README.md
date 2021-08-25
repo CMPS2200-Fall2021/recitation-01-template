@@ -12,15 +12,22 @@ To complete this recitation, follow the instructions in this document. Some of y
 - Login to Github.
 - Click on the assignment link sent through canvas and accept the assignment.
 - Click on your personal github repository for the assignment (e.g., https://github.com/tulane-cmps2200/recitation-01-your_username).
-- Clone the repository to your local device
+- [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository to your local device
 - Complete the lab task 
-- Push it back to github
+- [Add, commit, and push](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-using-the-command-line/adding-a-file-to-a-repository-using-the-command-line) your completed lab back up to GitHub. 
+  - You will need to issue `git add` for all files that you have modified, e.g., `main.py`, `README.md`, and any others that you modify as well.
+  - For example, on the command line, in the same directory as your cloned lab:
+```
+$ git add main.py
+$ git commit -m "Implement Required Functions"
+$ git push origin main
+```
 
 You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
 
 ## Turning in your work
 - Only one team member needs to push your completed lab to github. 
-- In the Read.me file, include the name of the team members.
+- In the README.md file, include the name of the team members.
 
 
 ## Comparing search algorithms
