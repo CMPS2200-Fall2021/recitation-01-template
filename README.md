@@ -24,7 +24,7 @@ $ git push origin main
 ```
 ## Running and testing your code
 - You can run the tests using `pytest`. To install `pytest`, on your terminal:
-  + `$ pip3 install pytest`
+  + `pip3 install pytest`
 - It's usually best to run only one test at a time. To run tests, from the command-line, you can run
   + `pytest -s main.py` will run all tests
   + `pytest -s main.py::test_one` will just run `test_one`
