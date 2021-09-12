@@ -3,14 +3,14 @@
 **Name (Team Member 1):**_________________________  
 **Name (Team Member 2):**_________________________
 
-In this recitation, we will investigate asymptotic complexity. Additionally, we will get familiar with the various technologies we'll use for collaborative coding.
+In this recitation, we will investigate asymptotic complexity. Additionally, we will get familiar with the various technologies we'll use for recitations and assignments for this semester.
 
 To complete this recitation, follow the instructions in this document. Some of your answers will go in this file, and others will require you to edit `main.py`.
 
 
 ## Setup
 - Login to Github.
-- Click on the assignment link sent through canvas and accept the assignment.
+- Click on the assignment link posted on canvas and accept the assignment.
 - Click on your personal github repository for the assignment (e.g., https://github.com/tulane-cmps2200/recitation-01-your_username).
 - [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository to your local device
 - Complete the lab task 
@@ -23,12 +23,10 @@ $ git commit -m "Implement Required Functions"
 $ git push origin main
 ```
 
-You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
-
 ## Turning in your work
+- You may work with a partner to complete this recitation.
 - Only one team member needs to push your completed lab to github. 
-- In the README.md file, include the name of the team members.
-
+- In the README.md file, include the names of the team members.
 
 ## Comparing search algorithms
 
