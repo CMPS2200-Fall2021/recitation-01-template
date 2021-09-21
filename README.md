@@ -25,9 +25,11 @@ $ git push origin main
 ## Running and testing your code
 - You can run the tests using `pytest`. To install `pytest`, on your terminal:
   + `pip3 install pytest`
+  + You may also have to install other python modules such as `tabulate` or other imported modules as you work through these recitations.
 - It's usually best to run only one test at a time. To run tests, from the command-line, you can run
   + `pytest -s main.py` will run all tests
   + `pytest -s main.py::test_one` will just run `test_one`
+- If you want to run your whole program, make sure to use `python3`. `python` still defaults to python version 2.
 
 ## Turning in your work
 - You may work with a partner to complete this recitation.
