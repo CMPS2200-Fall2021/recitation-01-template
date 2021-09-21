@@ -11,7 +11,7 @@ To complete this recitation, follow the instructions in this document. Some of y
 ## Setup
 - Login to Github.
 - Click on the assignment link posted on canvas and accept the assignment.
-- Click on your personal github repository for the assignment (e.g., https://github.com/tulane-cmps2200/recitation-01-your_username).
+- Click on your personal github repository for the assignment (e.g., https://github.com/CMPS2200-Fall2021/recitation-01-your_username).
 - [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository to your local device
 - Complete the lab task 
 - [Add, commit, and push](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-using-the-command-line/adding-a-file-to-a-repository-using-the-command-line) your completed lab back up to GitHub. 
